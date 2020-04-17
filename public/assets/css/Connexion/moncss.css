@@ -1,0 +1,15 @@
+header{
+    background-color: green;
+}
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    color:white;
+}
+.nav{
+    list-style: none;}
+footer{
+    background-color: green;
+}
